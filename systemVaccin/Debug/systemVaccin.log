@@ -1,0 +1,22 @@
+﻿  Main.cpp
+D:\Year 2 Semester 2\Data Structures\systemVaccin\systemVaccin\User.h(8,9): error C3646: 'name': unknown override specifier
+D:\Year 2 Semester 2\Data Structures\systemVaccin\systemVaccin\User.h(8,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Year 2 Semester 2\Data Structures\systemVaccin\systemVaccin\User.h(10,9): error C3646: 'password': unknown override specifier
+D:\Year 2 Semester 2\Data Structures\systemVaccin\systemVaccin\User.h(10,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Year 2 Semester 2\Data Structures\systemVaccin\systemVaccin\User.h(13,9): error C3646: 'country': unknown override specifier
+D:\Year 2 Semester 2\Data Structures\systemVaccin\systemVaccin\User.h(13,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Year 2 Semester 2\Data Structures\systemVaccin\systemVaccin\User.h(14,9): error C3646: 'governorate': unknown override specifier
+D:\Year 2 Semester 2\Data Structures\systemVaccin\systemVaccin\User.h(14,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  User.cpp
+D:\Year 2 Semester 2\Data Structures\systemVaccin\systemVaccin\User.h(8,9): error C3646: 'name': unknown override specifier
+D:\Year 2 Semester 2\Data Structures\systemVaccin\systemVaccin\User.h(8,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Year 2 Semester 2\Data Structures\systemVaccin\systemVaccin\User.h(10,9): error C3646: 'password': unknown override specifier
+D:\Year 2 Semester 2\Data Structures\systemVaccin\systemVaccin\User.h(10,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Year 2 Semester 2\Data Structures\systemVaccin\systemVaccin\User.h(13,9): error C3646: 'country': unknown override specifier
+D:\Year 2 Semester 2\Data Structures\systemVaccin\systemVaccin\User.h(13,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Year 2 Semester 2\Data Structures\systemVaccin\systemVaccin\User.h(14,9): error C3646: 'governorate': unknown override specifier
+D:\Year 2 Semester 2\Data Structures\systemVaccin\systemVaccin\User.h(14,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Year 2 Semester 2\Data Structures\systemVaccin\systemVaccin\User.cpp(112,12): error C2039: 'name': is not a member of 'User'
+D:\Year 2 Semester 2\Data Structures\systemVaccin\systemVaccin\User.h(5): message : see declaration of 'User'
+D:\Year 2 Semester 2\Data Structures\systemVaccin\systemVaccin\User.cpp(112,19): error C2065: 'name': undeclared identifier
+  Generating Code...
